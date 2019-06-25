@@ -1,0 +1,53 @@
+header{
+    padding: 20px;
+    font-size: 10px;
+    text-align: center;
+    background-color: black;
+    color: black;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    color: aliceblue;
+}
+ul{
+    width: 30%;
+    font-size: 20px;
+display: inline;
+float: left;
+}
+.festival{
+    background:url("https://i.ytimg.com/vi/n19GvpleDks/maxresdefault.jpg");
+    background-size:contain;
+  display: ruby-base-container;
+    display: inline;
+    float: right;
+    border:  1px solid  white ;
+    width: 1250px;
+    height: 311px;
+    color:red;
+    font-size: 50px;
+    text-align: center;
+}
+.sergi{
+    display: inline;
+    float: right;
+    border:  1px solid  white ;
+    width: 1250px;
+    height: 311px;
+    background-color: black;
+    color:red;
+    font-size: 50px;
+    background:url("http://faa.az/ckfinder/userfiles/images/2(4).jpg");
+    text-align: center;
+    background-size:contain;
+}
+.footer{
+    margin-top: 40%;
+    width: 100%;
+    padding: 40px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 40px;
+    background: black;
+    color: aliceblue;
+}
